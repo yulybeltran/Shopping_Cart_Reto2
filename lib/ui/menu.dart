@@ -33,9 +33,9 @@ class _menuState extends State<menu> {
             Expanded(
                 child: ListView(children: [
               ListTile(
-                leading: Icon(Icons.home),
+                leading: Icon(Icons.home , size: 30, color: Colors.blue),
                 title: Text("Inicio" , style: GoogleFonts.acme(),),
-                trailing: Icon(Icons.arrow_right),
+                trailing: Icon(Icons.arrow_right, size: 30, color: Colors.blue),
                 onTap: () {
                   Navigator.pop(context);
                   Control.cambiarposicion(0);
@@ -43,27 +43,27 @@ class _menuState extends State<menu> {
               ),
               ListTile(
                 
-                leading: Icon(Icons.monetization_on_outlined),
+                leading: Icon(Icons.monetization_on_outlined , size: 30, color: Colors.blue),
                 title: Text("Productos" , style: GoogleFonts.acme(),),
-                trailing: Icon(Icons.arrow_right),
+                trailing: Icon(Icons.arrow_right , size: 30, color: Colors.blue),
                 onTap: () {
                   Navigator.pop(context);
                   Control.cambiarposicion(1);
                 },
               ),
               ListTile(
-                leading: Icon(Icons.shopify),
+                leading: Icon(Icons.shopify , size: 30, color: Colors.blue),
                 title: Text("Mis compras" , style: GoogleFonts.acme(),),
-                trailing: Icon(Icons.arrow_right),
+                trailing: Icon(Icons.arrow_right , size: 30, color: Colors.blue),
                 onTap: () {
                   Navigator.pop(context);
                   Control.cambiarposicion(2);
                 },
               ),
               ListTile(
-                leading: Icon(Icons.person),
+                leading: Icon(Icons.person , size: 30, color: Colors.blue),
                 title: Text("Acerca de Kamej Candy Shop" , style: GoogleFonts.acme(),),
-                trailing: Icon(Icons.arrow_right),
+                trailing: Icon(Icons.arrow_right , size: 30, color: Colors.blue),
                 onTap: () {
                   Navigator.pop(context);
                   Control.cambiarposicion(3);

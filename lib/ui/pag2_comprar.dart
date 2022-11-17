@@ -44,7 +44,7 @@ class _pag2_comprarState extends State<pag2_comprar> {
                           Control.cambiarCantidad(index, nuevaCantidad);
                           Control.pro.refresh();
                         },
-                        icon: Icon(Icons.add_circle)),
+                        icon: Icon(Icons.add_circle,  color: Colors.blue)),
                     VerticalDivider(),
                     IconButton(
                         onPressed: () {
@@ -57,7 +57,7 @@ class _pag2_comprarState extends State<pag2_comprar> {
                           Control.cambiarCantidad(index, nuevaCantidad);
                           Control.pro.refresh();
                         },
-                        icon: Icon(Icons.remove_circle_rounded)),
+                        icon: Icon(Icons.remove_circle_rounded , color: Colors.red)),
                   ],
                 ),
               );

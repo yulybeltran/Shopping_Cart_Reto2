@@ -28,7 +28,7 @@ class _pag3_misproductosState extends State<pag3_misproductos> {
                         ? Text("")
                         : ListTile(
                             leading: Image(
-                                image: NetworkImage(Control.pro[index].imagen)),
+                                image: NetworkImage(Control.pro[index].imagen )),
                             title: Text(Control.pro[index].nombre, style: GoogleFonts.acme(),),
                             subtitle: Text("Precio: " +
                                 Control.pro[index].precio.toString() +

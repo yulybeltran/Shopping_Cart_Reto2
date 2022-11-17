@@ -18,7 +18,7 @@
 -   KAMEJ CANDY STORE<br>
 
 
-- [Clic aquí para ver las imagenes](https://drive.google.com/drive/folders/162QUmV3d0hSC89leRCbbevTEh5UjgbQu?usp=sharing)
+-![Clic aquí para ver las imagenes](https://drive.google.com/drive/folders/162QUmV3d0hSC89leRCbbevTEh5UjgbQu?usp=sharing)
 
 <!-- ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true) -->
 

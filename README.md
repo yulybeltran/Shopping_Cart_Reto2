@@ -1,4 +1,4 @@
-# Reto_2_Equipo_10
+# Reto_2_ MINTIC_Equipo_10
 
 ##  Técnologías, librerías o herramientas que se usaron:
 - Flutter
@@ -10,14 +10,14 @@
 
 
 ##  Demo
-<img src="https://drive.google.com/file/d/1usBehrOWzfZs96HjzgHGRkCutZY39Y49/view?usp=sharing" />
-- [Clic aquí para ver el demo](https://youtu.be/zVYIf_YtyhQ)
+
+- [Clic aquí para ver el demo](https://youtube.com/shorts/8uIenhpYuxU)
 
 ##  Vistas de la interfaz
 -   Conversor de divisas<br>
 
 
-- [Clic aquí para ver la imagen](https://drive.google.com/file/d/1usBehrOWzfZs96HjzgHGRkCutZY39Y49/view?usp=sharing)
+- [Clic aquí para ver las imagenes](https://drive.google.com/drive/folders/162QUmV3d0hSC89leRCbbevTEh5UjgbQu?usp=sharing)
 
 <!-- ![alt text](https://github.com/yulybeltran/Reto1_App_Movile/blob/main/conversor_monedas.png?raw=true) -->
 

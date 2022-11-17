@@ -15,24 +15,24 @@ class _pag4_acercadeState extends State<pag4_acercade> {
       child: ListView(
         children: [
           ListTile(
-            leading: Icon(Icons.store_mall_directory),
+            leading: Icon(Icons.store_mall_directory , color: Colors.blue),
             title: Text("Kamej Candy Store", style: GoogleFonts.acme(),),
            
           ),
            
            ListTile(
-            leading: Icon(Icons.phone_android),
+            leading: Icon(Icons.phone_android , color: Colors.blue),
             title: Text("3987655788", style: GoogleFonts.acme(),),
             subtitle: Text("Celular", style: GoogleFonts.acme(),)
           ),
            ListTile(
-            leading: Icon(Icons.location_city),
+            leading: Icon(Icons.location_city , color: Colors.blue),
             title: Text("Calle 100 # 45- 34", style: GoogleFonts.acme(),),
             subtitle: Text("Dirección", style: GoogleFonts.acme(),)
            
           ),
            ListTile(
-            leading: Icon(Icons.mail_lock),
+            leading: Icon(Icons.mail_lock , color: Colors.blue),
             title: Text("kamejcandyshop@gmail.com", style: GoogleFonts.acme(),),
             subtitle: Text("Email", style: GoogleFonts.acme(),)
           )

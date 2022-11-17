@@ -5,6 +5,7 @@
 - get: ^4.6.5
 - C++ 
 - Dart
+- flutter pub add google_fonts
 
 *******
 
@@ -14,7 +15,7 @@
 - [Clic aquí para ver el demo](https://youtube.com/shorts/8uIenhpYuxU)
 
 ##  Vistas de la interfaz
--   Conversor de divisas<br>
+-   KAMEJ CANDY STORE<br>
 
 
 - [Clic aquí para ver las imagenes](https://drive.google.com/drive/folders/162QUmV3d0hSC89leRCbbevTEh5UjgbQu?usp=sharing)
